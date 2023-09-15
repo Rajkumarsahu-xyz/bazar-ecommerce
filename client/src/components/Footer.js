@@ -17,7 +17,7 @@ const Footer = () => {
       <div className="max-w-screen-xl mx-auto grid grid-cols-4">
         <div className="flex flex-col gap-7">
           <img className="w-32" src={logoLight} alt="logoLight" />
-          <p className="text-white text-sm tracking-wide">© bazar</p>
+          <p className="text-white text-sm tracking-wide">© markt</p>
           <img className="w-56" src={paymentLogo} alt="paymentLogo" />
           <div className="flex gap-5 text-lg text-gray-400">
             <ImGithub className="hover:text-white duration-300 cursor-pointer" />
@@ -33,7 +33,7 @@ const Footer = () => {
             <p>LawGate, Phagwara, Punjab-India</p>
             <p>Mobile: 0841 29347493</p>
             <p>Phone: 0841 98482937</p>
-            <p>e-mail: bazar@gmail.com</p>
+            <p>e-mail: markt@gmail.com</p>
           </div>
         </div>
         <div>
